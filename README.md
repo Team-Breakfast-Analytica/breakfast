@@ -13,9 +13,9 @@ Kristina Garber, Benjamin Bartek & Jono O'Dowd formed a team called TEAM BREAKFA
 
 1. Install a Jupyter Notebook to run our ipynb files. If you are new to Jupyter notebooks, click on this [Link to Jupyter Notebook Beginner Guide](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html)
 2. There are three main areas of our code (see below). You may choose to work on one, two or all three.
-    a. Neighborhood Airbnb Profit Margin & Keywords Dashboard Analysis (ipynb files found inside folder 'Profit')
-    b. Neighborhood Airbnb Crime Dashboard Analysis (ipynb files found inside folder 'Crime')
-    c. Neighborhood Airbnb with Nearby Recreational, Restaurants & Shopping Analysis (ipynb files found inside folder 'POI' for Points of Interest)
+    * Neighborhood Airbnb Profit Margin & Keywords Dashboard Analysis (ipynb files found inside folder 'notebooks' sub-folder 'Profit')
+    * Neighborhood Airbnb Crime Dashboard Analysis (ipynb files found inside folder 'notebooks' sub-folder 'Crime')
+    * Neighborhood Airbnb with Nearby Recreational, Restaurants & Shopping Analysis (ipynb files inside folder 'notebooks' sub-folder 'POI' for Points of Interest)
 3. After choosing which notebook files to run, you will also need the following tools:
     a. Heroku - to build a PostgreSQL database and connect Jupyter notebooks via python libraries called sqlalchemy and psycogpg2.
     b. pgAdmin 4 tool - to access your new PostgreSQL database to ensure the data exported properly from the Jupyter notebook files.
