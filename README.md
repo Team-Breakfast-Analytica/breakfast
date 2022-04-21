@@ -18,8 +18,8 @@ Kristina Garber, Benjamin Bartek & Jono O'Dowd formed a team called TEAM BREAKFA
     * Neighborhood Airbnb with Nearby Recreational, Restaurants & Shopping Analysis (ipynb files inside folder 'notebooks' sub-folder 'POI' for Points of Interest)
     * Optional: You are welcome to access our notebooks and data files from our CoCalc repository public view: [Link to Seattle Airbnb Crime Advisory: Datasets & Jupyter Notebooks](https://cocalc.com/share/public_paths/9f5e4e91cd5e0842e82c32209ca40da9b7e1b24f)   
 3. After choosing which notebook files to run, you will also need the following tools:
-    a. Heroku - to build a PostgreSQL database and connect Jupyter notebooks via python libraries called sqlalchemy and psycogpg2.
-    b. pgAdmin 4 tool - to access your new PostgreSQL database to ensure the data exported properly from the Jupyter notebook files.
-    c. Tableau - to connect to the PostgreSQL database and begin building your visual story using Tableau's worksheet & dashboard features.
+    * Heroku - to build a PostgreSQL database and connect Jupyter notebooks via python libraries called sqlalchemy and psycogpg2.
+    * pgAdmin 4 tool - to access your new PostgreSQL database to ensure the data exported properly from the Jupyter notebook files.
+    * Tableau - to connect to the PostgreSQL database and begin building your visual story using Tableau's worksheet & dashboard features.
  4. 
 
