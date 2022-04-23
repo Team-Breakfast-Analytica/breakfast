@@ -44,9 +44,9 @@ Both unsupervised and supervised learning models were used. A real insightful un
     * pgAdmin 4 tool - to access your new PostgreSQL database to ensure the data exported properly from the Jupyter notebook files.
     * Tableau - to connect to the PostgreSQL database and begin building your visual story using Tableau's worksheet & dashboard features.
 4. Summary of steps:
-    * You must do the preliminary step of setting up Heroku PostgreSQL database first. Then include PostgreSQL credentials in designated cell with sqlalchemy and psycogpg2 python libraries that act as connectors to the PostgreSQL database.
+    * You must do the preliminary step of setting up Heroku PostgreSQL database first. Then include PostgreSQL credentials in designated Jupyter Notebook cell with sqlalchemy and psycogpg2 python libraries that act as connectors to the PostgreSQL database.
     * Ensure the respective csv file data sets are in local folder where the Jupyter notebooks exist.
-    * Run the Jupyter notebooks against the respective csv file data sets.
+    * Run the Jupyter Notebooks against the respective csv file data sets.
     * Use pgAdmin 4 tool to check on the post-model results to ensure it made it to the PostgreSQL database.
     * Using Tableau, set up connectors to the PostgreSQL database using your PostgreSQL credentials from your Heroku account.
     * Within Tableau, create any necessary database joins and set up either an ‘Extract’ or ‘Live’ connector to the PostgreSQL database depending on your strategy. We just used ‘Extract’ to update manually as necessary but if you are in a production-like environment, ‘Live’ may be the way to go.
