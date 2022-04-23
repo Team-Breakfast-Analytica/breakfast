@@ -43,5 +43,11 @@ Both unsupervised and supervised learning models were used. A real insightful un
     * Heroku - to build a PostgreSQL database and connect Jupyter notebooks via python libraries called sqlalchemy and psycogpg2.
     * pgAdmin 4 tool - to access your new PostgreSQL database to ensure the data exported properly from the Jupyter notebook files.
     * Tableau - to connect to the PostgreSQL database and begin building your visual story using Tableau's worksheet & dashboard features.
- 4. 
-
+4. Summary of steps:
+    * You must do the preliminary step of setting up Heroku PostgreSQL database first. Then include PostgreSQL credentials in designated cell with sqlalchemy and psycogpg2 python libraries that act as connectors to the PostgreSQL database.
+    * Ensure the respective csv file data sets are in local folder where the Jupyter notebooks exist.
+    * Run the Jupyter notebooks against the respective csv file data sets.
+    * Use pgAdmin 4 tool to check on the post-model results to ensure it made it to the PostgreSQL database.
+    * Using Tableau, set up connectors to the PostgreSQL database using your PostgreSQL credentials from your Heroku account.
+    * Within Tableau, create any necessary database joins and set up either an ‘Extract’ or ‘Live’ connector to the PostgreSQL database depending on your strategy. We just used ‘Extract’ to update manually as necessary but if you are in a production-like environment, ‘Live’ may be the way to go.
+    * Now begin your Tableau construction of telling the data story. Start with ‘Worksheet’ to manipulate and configure the data to particular visuals. Next move to ‘Dashboard’ where you can pull in one or more ‘Worksheets’ depending on your visual approach. Finally pull in all ‘Dashboards’ into what Tableau calls a ‘Story’ screen. This is where you can display all your dashboards into one screen where each dashboard can be accessed one at a time via a navigational tab menu structure. That is all there is to it. Well, we found this quite a challenge to get the final dashboard you now see at the link further above in this ReadMe. We are thankful to our guide, Michelle LeBlanc, who coached us along the way to go above and beyond anything we thought possible. Thank you, Michelle and our other instructors and co-students who gave helpful advice along the way. Go Blue!
