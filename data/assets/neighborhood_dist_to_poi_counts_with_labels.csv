@@ -1,0 +1,18 @@
+,neighborhood_group,quarter_mile,half_mile,one_mile,two_miles,three_miles,four_miles,five_miles,ten_miles,label
+0,BALLARD,3,9,32,76,141,231,395,734,Fewest Nearby Choices
+1,BEACON HILL,2,4,18,91,210,305,406,740,Moderate Nearby Choices
+2,CAPITOL HILL,9,32,103,299,440,532,616,774,Most Nearby Choices
+3,CASCADE,7,24,112,308,458,555,621,770,Most Nearby Choices
+4,CENTRAL AREA,4,14,67,273,402,495,582,777,Most Nearby Choices
+5,DELRIDGE,1,1,6,25,63,152,264,695,Fewest Nearby Choices
+6,DOWNTOWN,23,71,197,346,432,519,616,770,Most Nearby Choices
+7,INTERBAY,1,2,10,95,218,457,572,756,Moderate Nearby Choices
+8,LAKE CITY,1,1,5,18,50,97,161,690,Fewest Nearby Choices
+9,MAGNOLIA,1,2,9,63,153,339,521,744,Moderate Nearby Choices
+10,NORTHGATE,1,2,8,38,96,164,236,711,Fewest Nearby Choices
+11,OTHER NEIGHBORHOODS,2,7,25,87,193,326,459,747,Moderate Nearby Choices
+12,QUEEN ANNE,3,10,43,206,408,543,606,768,Most Nearby Choices
+13,RAINIER VALLEY,2,4,11,39,103,187,294,698,Fewest Nearby Choices
+14,SEWARD PARK,1,2,11,29,57,123,299,731,Fewest Nearby Choices
+15,UNIVERSITY DISTRICT,4,13,41,108,212,466,590,763,Moderate Nearby Choices
+16,WEST SEATTLE,1,3,9,26,58,171,324,706,Fewest Nearby Choices
