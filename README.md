@@ -40,12 +40,12 @@ Both unsupervised and supervised learning models were used. A real insightful un
     * Neighborhood Airbnb with Nearby Recreational, Restaurants & Shopping Analysis (ipynb files inside folder 'notebooks' sub-folder 'POI' for Points of Interest)
     * Optional: You are welcome to access our notebooks and data files from our CoCalc repository public view: [Link to Seattle Airbnb Crime Advisory: Datasets & Jupyter Notebooks](https://cocalc.com/share/public_paths/9f5e4e91cd5e0842e82c32209ca40da9b7e1b24f)   
 3. After choosing which notebook files to run, you will also need the following tools:
-    * Heroku - to build a PostgreSQL database and connect Jupyter notebooks via python libraries called sqlalchemy and psycogpg2.
-    * pgAdmin 4 tool - to access your new PostgreSQL database to ensure the data exported properly from the Jupyter notebook files.
+    * Heroku - to build a PostgreSQL database and connect Jupyter Notebooks via python libraries called sqlalchemy and psycogpg2.
+    * pgAdmin 4 tool - to access your new PostgreSQL database to ensure the data exported properly from the Jupyter Notebook files.
     * Tableau - to connect to the PostgreSQL database and begin building your visual story using Tableau's worksheet & dashboard features.
 4. Summary of steps:
     * You must do the preliminary step of setting up Heroku PostgreSQL database first. Then include PostgreSQL credentials in designated Jupyter Notebook cell with sqlalchemy and psycogpg2 python libraries that act as connectors to the PostgreSQL database.
-    * Ensure the respective csv file data sets are in local folder where the Jupyter notebooks exist.
+    * Ensure the respective csv file data sets are in local folder where the Jupyter Notebooks exist.
     * Run the Jupyter Notebooks against the respective csv file data sets.
     * Use pgAdmin 4 tool to check on the post-model results to ensure it made it to the PostgreSQL database.
     * Using Tableau, set up connectors to the PostgreSQL database using your PostgreSQL credentials from your Heroku account.
