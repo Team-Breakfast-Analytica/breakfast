@@ -33,7 +33,7 @@ Both unsupervised and supervised learning models were used. A real insightful un
 
 ## Instructions:
 
-1. Install a Jupyter Notebook to run our ipynb files. If you are new to Jupyter notebooks, click on this [Link to Jupyter Notebook Beginner Guide](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html)
+1. Install a Jupyter Notebook to run our ipynb files. If you are new to Jupyter notebooks, click on this [Link to Jupyter Notebook Beginner Guide](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html). Also, please view the "requirements.txt" file to ensure you have all the required libraries installed.
 2. There are three main areas of our code (see below). You may choose to work on one, two or all three.
     * Neighborhood Airbnb Profit Margin & Keywords Dashboard Analysis (ipynb files found inside folder 'notebooks' sub-folder 'Profit')
     * Neighborhood Airbnb Crime Dashboard Analysis (ipynb files found inside folder 'notebooks' sub-folder 'Crime')
