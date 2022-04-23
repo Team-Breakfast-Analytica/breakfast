@@ -1,0 +1,511 @@
+Rank,Neighborhood,Word,Topic
+0,Cascade,lake,no_topic
+1,Cascade,union,no_topic
+2,Cascade,you’ll,topic_5
+3,Cascade,equip,topic_5
+4,Cascade,offer,topic_3
+5,Cascade,space,topic_2
+6,Cascade,view,topic_3
+7,Cascade,fulli,topic_5
+8,Cascade,downtown,topic_2
+9,Cascade,blueground,topic_5
+10,Cascade,furnish,topic_5
+11,Cascade,south,no_topic
+12,Cascade,love,topic_5
+13,Cascade,park,topic_2
+14,Cascade,mattress,topic_5
+15,Cascade,walk,topic_2
+16,Cascade,includ,topic_3
+17,Cascade,amen,topic_5
+18,Cascade,linen,topic_1
+19,Cascade,needl,topic_4
+20,Cascade,minut,topic_2
+21,Cascade,clean,topic_1
+22,Cascade,enjoi,topic_3
+23,Cascade,design,topic_3
+24,Cascade,you’r,topic_5
+25,Cascade,laundri,topic_5
+26,Cascade,premium,topic_5
+27,Cascade,privat,topic_2
+28,Cascade,towel,topic_5
+29,Cascade,citi,topic_3
+0,Northgate,space,topic_2
+1,Northgate,park,topic_2
+2,Northgate,privat,topic_2
+3,Northgate,minut,topic_2
+4,Northgate,walk,topic_2
+5,Northgate,quiet,no_topic
+6,Northgate,downtown,topic_2
+7,Northgate,area,topic_2
+8,Northgate,queen,topic_2
+9,Northgate,share,topic_2
+10,Northgate,size,topic_2
+11,Northgate,access,topic_2
+12,Northgate,free,no_topic
+13,Northgate,neighborhood,topic_2
+14,Northgate,northgat,no_topic
+15,Northgate,comfort,topic_3
+16,Northgate,north,no_topic
+17,Northgate,clean,topic_1
+18,Northgate,awai,topic_1
+19,Northgate,bu,topic_2
+20,Northgate,enjoi,topic_3
+21,Northgate,floor,topic_2
+22,Northgate,close,no_topic
+23,Northgate,min,topic_2
+24,Northgate,mile,no_topic
+25,Northgate,opli,topic_4
+26,Northgate,provid,topic_1
+27,Northgate,numberstr,no_topic
+28,Northgate,desk,no_topic
+29,Northgate,dine,topic_3
+0,Delridge,privat,topic_2
+1,Delridge,min,topic_2
+2,Delridge,park,topic_2
+3,Delridge,space,topic_2
+4,Delridge,downtown,topic_2
+5,Delridge,west,no_topic
+6,Delridge,walk,topic_2
+7,Delridge,drive,no_topic
+8,Delridge,access,topic_2
+9,Delridge,share,topic_2
+10,Delridge,minut,topic_2
+11,Delridge,beach,no_topic
+12,Delridge,larg,topic_2
+13,Delridge,coffe,topic_2
+14,Delridge,size,topic_2
+15,Delridge,shop,topic_4
+16,Delridge,place,topic_4
+17,Delridge,bu,topic_2
+18,Delridge,area,topic_2
+19,Delridge,queen,topic_2
+20,Delridge,free,no_topic
+21,Delridge,street,topic_2
+22,Delridge,enjoi,topic_3
+23,Delridge,floor,topic_2
+24,Delridge,high,topic_3
+25,Delridge,avail,no_topic
+26,Delridge,includ,topic_3
+27,Delridge,restaur,topic_2
+28,Delridge,alki,no_topic
+29,Delridge,internet,no_topic
+0,Rainier Valley,light,no_topic
+1,Rainier Valley,privat,topic_2
+2,Rainier Valley,park,topic_2
+3,Rainier Valley,walk,topic_2
+4,Rainier Valley,space,topic_2
+5,Rainier Valley,citi,topic_3
+6,Rainier Valley,rail,no_topic
+7,Rainier Valley,downtown,topic_2
+8,Rainier Valley,minut,topic_2
+9,Rainier Valley,access,topic_2
+10,Rainier Valley,neighborhood,topic_2
+11,Rainier Valley,floor,topic_2
+12,Rainier Valley,queen,topic_2
+13,Rainier Valley,min,topic_2
+14,Rainier Valley,area,topic_2
+15,Rainier Valley,lake,no_topic
+16,Rainier Valley,columbia,no_topic
+17,Rainier Valley,airport,no_topic
+18,Rainier Valley,size,topic_2
+19,Rainier Valley,view,topic_3
+20,Rainier Valley,washington,no_topic
+21,Rainier Valley,larg,topic_2
+22,Rainier Valley,bath,no_topic
+23,Rainier Valley,enjoi,topic_3
+24,Rainier Valley,cozi,no_topic
+25,Rainier Valley,station,no_topic
+26,Rainier Valley,fulli,topic_5
+27,Rainier Valley,comfort,topic_3
+28,Rainier Valley,restaur,topic_2
+29,Rainier Valley,clean,topic_1
+0,Ballard,ballard,no_topic
+1,Ballard,space,topic_2
+2,Ballard,walk,topic_2
+3,Ballard,privat,topic_2
+4,Ballard,park,topic_2
+5,Ballard,floor,topic_2
+6,Ballard,restaur,topic_2
+7,Ballard,downtown,topic_2
+8,Ballard,queen,topic_2
+9,Ballard,neighborhood,topic_2
+10,Ballard,area,topic_2
+11,Ballard,shop,topic_4
+12,Ballard,coffe,topic_2
+13,Ballard,access,topic_2
+14,Ballard,larg,topic_2
+15,Ballard,enjoi,topic_3
+16,Ballard,garden,no_topic
+17,Ballard,street,topic_2
+18,Ballard,studio,no_topic
+19,Ballard,new,no_topic
+20,Ballard,size,topic_2
+21,Ballard,distanc,no_topic
+22,Ballard,fulli,topic_5
+23,Ballard,comfort,topic_3
+24,Ballard,great,no_topic
+25,Ballard,awai,topic_1
+26,Ballard,block,no_topic
+27,Ballard,includ,topic_3
+28,Ballard,bath,no_topic
+29,Ballard,licens,no_topic
+0,University District,univers,no_topic
+1,University District,walk,topic_2
+2,University District,clean,topic_1
+3,University District,district,no_topic
+4,University District,min,topic_2
+5,University District,floor,topic_2
+6,University District,privat,topic_2
+7,University District,easi,no_topic
+8,University District,hotel,no_topic
+9,University District,park,topic_2
+10,University District,access,topic_2
+11,University District,street,topic_2
+12,University District,comfort,topic_3
+13,University District,downtown,topic_2
+14,University District,awai,topic_1
+15,University District,larg,topic_2
+16,University District,quiet,no_topic
+17,University District,build,no_topic
+18,University District,dine,topic_3
+19,University District,washington,no_topic
+20,University District,share,topic_2
+21,University District,restaur,topic_2
+22,University District,av,no_topic
+23,University District,fulli,topic_5
+24,University District,queen,topic_2
+25,University District,minut,topic_2
+26,University District,studio,no_topic
+27,University District,drive,no_topic
+28,University District,new,no_topic
+29,University District,furnish,topic_5
+0,Seward Park,park,topic_2
+1,Seward Park,lake,no_topic
+2,Seward Park,privat,topic_2
+3,Seward Park,seward,no_topic
+4,Seward Park,washington,no_topic
+5,Seward Park,walk,topic_2
+6,Seward Park,citi,topic_3
+7,Seward Park,space,topic_2
+8,Seward Park,view,topic_3
+9,Seward Park,columbia,no_topic
+10,Seward Park,light,no_topic
+11,Seward Park,downtown,topic_2
+12,Seward Park,block,no_topic
+13,Seward Park,minut,topic_2
+14,Seward Park,restaur,topic_2
+15,Seward Park,includ,topic_3
+16,Seward Park,neighborhood,topic_2
+17,Seward Park,beauti,no_topic
+18,Seward Park,enjoi,topic_3
+19,Seward Park,queen,topic_2
+20,Seward Park,rail,no_topic
+21,Seward Park,shop,topic_4
+22,Seward Park,floor,topic_2
+23,Seward Park,awai,topic_1
+24,Seward Park,comfort,topic_3
+25,Seward Park,larg,topic_2
+26,Seward Park,famili,no_topic
+27,Seward Park,lower,no_topic
+28,Seward Park,entranc,topic_2
+29,Seward Park,area,topic_2
+0,Central Area,space,topic_2
+1,Central Area,privat,topic_2
+2,Central Area,park,topic_2
+3,Central Area,floor,topic_2
+4,Central Area,hill,topic_4
+5,Central Area,downtown,topic_2
+6,Central Area,walk,topic_2
+7,Central Area,area,topic_2
+8,Central Area,queen,topic_2
+9,Central Area,street,topic_2
+10,Central Area,access,topic_2
+11,Central Area,capitol,topic_4
+12,Central Area,restaur,topic_2
+13,Central Area,central,no_topic
+14,Central Area,enjoi,topic_3
+15,Central Area,neighborhood,topic_2
+16,Central Area,modern,topic_3
+17,Central Area,comfort,topic_3
+18,Central Area,fulli,topic_5
+19,Central Area,minut,topic_2
+20,Central Area,coffe,topic_2
+21,Central Area,close,no_topic
+22,Central Area,view,topic_3
+23,Central Area,awai,topic_1
+24,Central Area,clean,topic_1
+25,Central Area,quiet,no_topic
+26,Central Area,level,no_topic
+27,Central Area,block,no_topic
+28,Central Area,place,topic_4
+29,Central Area,furnish,topic_5
+0,Interbay,like,no_topic
+1,Interbay,equip,topic_5
+2,Interbay,zeu,no_topic
+3,Interbay,ballard,no_topic
+4,Interbay,need,no_topic
+5,Interbay,magnolia,no_topic
+6,Interbay,walk,topic_2
+7,Interbay,queen,topic_2
+8,Interbay,enjoi,topic_3
+9,Interbay,modern,topic_3
+10,Interbay,clean,topic_1
+11,Interbay,park,topic_2
+12,Interbay,downtown,topic_2
+13,Interbay,ann,no_topic
+14,Interbay,newli,no_topic
+15,Interbay,furnish,topic_5
+16,Interbay,towel,topic_5
+17,Interbay,local,no_topic
+18,Interbay,wifi,no_topic
+19,Interbay,mattress,topic_5
+20,Interbay,door,no_topic
+21,Interbay,perfect,no_topic
+22,Interbay,high,topic_3
+23,Interbay,groceri,no_topic
+24,Interbay,linen,topic_1
+25,Interbay,dai,no_topic
+26,Interbay,line,no_topic
+27,Interbay,restaur,topic_2
+28,Interbay,offer,topic_3
+29,Interbay,pot,no_topic
+0,Capitol Hill,hill,topic_4
+1,Capitol Hill,capitol,topic_4
+2,Capitol Hill,park,topic_2
+3,Capitol Hill,walk,topic_2
+4,Capitol Hill,privat,topic_2
+5,Capitol Hill,space,topic_2
+6,Capitol Hill,neighborhood,topic_2
+7,Capitol Hill,clean,topic_1
+8,Capitol Hill,floor,topic_2
+9,Capitol Hill,restaur,topic_2
+10,Capitol Hill,light,no_topic
+11,Capitol Hill,block,no_topic
+12,Capitol Hill,queen,topic_2
+13,Capitol Hill,area,topic_2
+14,Capitol Hill,new,no_topic
+15,Capitol Hill,downtown,topic_2
+16,Capitol Hill,comfort,topic_3
+17,Capitol Hill,awai,topic_1
+18,Capitol Hill,fulli,topic_5
+19,Capitol Hill,includ,topic_3
+20,Capitol Hill,shop,topic_4
+21,Capitol Hill,modern,topic_3
+22,Capitol Hill,size,topic_2
+23,Capitol Hill,view,topic_3
+24,Capitol Hill,street,topic_2
+25,Capitol Hill,furnish,topic_5
+26,Capitol Hill,access,topic_2
+27,Capitol Hill,coffe,topic_2
+28,Capitol Hill,equip,topic_5
+29,Capitol Hill,build,no_topic
+0,Magnolia,park,topic_2
+1,Magnolia,privat,topic_2
+2,Magnolia,magnolia,no_topic
+3,Magnolia,space,topic_2
+4,Magnolia,downtown,topic_2
+5,Magnolia,floor,topic_2
+6,Magnolia,neighborhood,topic_2
+7,Magnolia,minut,topic_2
+8,Magnolia,area,topic_2
+9,Magnolia,awai,topic_1
+10,Magnolia,access,topic_2
+11,Magnolia,view,topic_3
+12,Magnolia,enjoi,topic_3
+13,Magnolia,comfort,topic_3
+14,Magnolia,ballard,no_topic
+15,Magnolia,bu,topic_2
+16,Magnolia,discoveri,no_topic
+17,Magnolia,walk,topic_2
+18,Magnolia,great,no_topic
+19,Magnolia,deck,topic_3
+20,Magnolia,queen,topic_2
+21,Magnolia,quiet,no_topic
+22,Magnolia,size,topic_2
+23,Magnolia,coffe,topic_2
+24,Magnolia,backyard,no_topic
+25,Magnolia,larg,topic_2
+26,Magnolia,restaur,topic_2
+27,Magnolia,citi,topic_3
+28,Magnolia,street,topic_2
+29,Magnolia,place,topic_4
+0,Downtown,place,topic_4
+1,Downtown,downtown,topic_2
+2,Downtown,view,topic_3
+3,Downtown,space,topic_2
+4,Downtown,walk,topic_2
+5,Downtown,pike,topic_4
+6,Downtown,park,topic_2
+7,Downtown,market,topic_4
+8,Downtown,equip,topic_5
+9,Downtown,build,no_topic
+10,Downtown,fulli,topic_5
+11,Downtown,condo,no_topic
+12,Downtown,center,topic_4
+13,Downtown,citi,topic_3
+14,Downtown,includ,topic_3
+15,Downtown,offer,topic_3
+16,Downtown,you’ll,topic_5
+17,Downtown,floor,topic_2
+18,Downtown,queen,topic_2
+19,Downtown,furnish,topic_5
+20,Downtown,amen,topic_5
+21,Downtown,comfort,topic_3
+22,Downtown,restaur,topic_2
+23,Downtown,needl,topic_4
+24,Downtown,best,no_topic
+25,Downtown,size,topic_2
+26,Downtown,modern,topic_3
+27,Downtown,belltown,no_topic
+28,Downtown,heart,no_topic
+29,Downtown,enjoi,topic_3
+0,West Seattle,beach,no_topic
+1,West Seattle,park,topic_2
+2,West Seattle,privat,topic_2
+3,West Seattle,space,topic_2
+4,West Seattle,west,no_topic
+5,West Seattle,view,topic_3
+6,West Seattle,floor,topic_2
+7,West Seattle,alki,no_topic
+8,West Seattle,walk,topic_2
+9,West Seattle,enjoi,topic_3
+10,West Seattle,downtown,topic_2
+11,West Seattle,restaur,topic_2
+12,West Seattle,clean,topic_1
+13,West Seattle,coffe,topic_2
+14,West Seattle,neighborhood,topic_2
+15,West Seattle,queen,topic_2
+16,West Seattle,awai,topic_1
+17,West Seattle,access,topic_2
+18,West Seattle,street,topic_2
+19,West Seattle,area,topic_2
+20,West Seattle,quiet,no_topic
+21,West Seattle,minut,topic_2
+22,West Seattle,shop,topic_4
+23,West Seattle,includ,topic_3
+24,West Seattle,comfort,topic_3
+25,West Seattle,water,no_topic
+26,West Seattle,block,no_topic
+27,West Seattle,beauti,no_topic
+28,West Seattle,new,no_topic
+29,West Seattle,entranc,topic_2
+0,Other neighborhoods,privat,topic_2
+1,Other neighborhoods,park,topic_2
+2,Other neighborhoods,space,topic_2
+3,Other neighborhoods,walk,topic_2
+4,Other neighborhoods,neighborhood,topic_2
+5,Other neighborhoods,floor,topic_2
+6,Other neighborhoods,downtown,topic_2
+7,Other neighborhoods,access,topic_2
+8,Other neighborhoods,comfort,topic_3
+9,Other neighborhoods,enjoi,topic_3
+10,Other neighborhoods,area,topic_2
+11,Other neighborhoods,restaur,topic_2
+12,Other neighborhoods,lake,no_topic
+13,Other neighborhoods,shop,topic_4
+14,Other neighborhoods,minut,topic_2
+15,Other neighborhoods,queen,topic_2
+16,Other neighborhoods,coffe,topic_2
+17,Other neighborhoods,larg,topic_2
+18,Other neighborhoods,bu,topic_2
+19,Other neighborhoods,size,topic_2
+20,Other neighborhoods,light,no_topic
+21,Other neighborhoods,includ,topic_3
+22,Other neighborhoods,street,topic_2
+23,Other neighborhoods,block,no_topic
+24,Other neighborhoods,quiet,no_topic
+25,Other neighborhoods,new,no_topic
+26,Other neighborhoods,entranc,topic_2
+27,Other neighborhoods,clean,topic_1
+28,Other neighborhoods,share,topic_2
+29,Other neighborhoods,great,no_topic
+0,Queen Anne,queen,topic_2
+1,Queen Anne,space,topic_2
+2,Queen Anne,ann,no_topic
+3,Queen Anne,park,topic_2
+4,Queen Anne,walk,topic_2
+5,Queen Anne,privat,topic_2
+6,Queen Anne,view,topic_3
+7,Queen Anne,neighborhood,topic_2
+8,Queen Anne,floor,topic_2
+9,Queen Anne,needl,topic_4
+10,Queen Anne,downtown,topic_2
+11,Queen Anne,clean,topic_1
+12,Queen Anne,street,topic_2
+13,Queen Anne,place,topic_4
+14,Queen Anne,enjoi,topic_3
+15,Queen Anne,center,topic_4
+16,Queen Anne,area,topic_2
+17,Queen Anne,awai,topic_1
+18,Queen Anne,minut,topic_2
+19,Queen Anne,comfort,topic_3
+20,Queen Anne,access,topic_2
+21,Queen Anne,restaur,topic_2
+22,Queen Anne,fulli,topic_5
+23,Queen Anne,quiet,no_topic
+24,Queen Anne,larg,topic_2
+25,Queen Anne,includ,topic_3
+26,Queen Anne,beauti,no_topic
+27,Queen Anne,modern,topic_3
+28,Queen Anne,coffe,topic_2
+29,Queen Anne,dine,topic_3
+0,Lake City,space,topic_2
+1,Lake City,park,topic_2
+2,Lake City,privat,topic_2
+3,Lake City,area,topic_2
+4,Lake City,access,topic_2
+5,Lake City,lake,no_topic
+6,Lake City,floor,topic_2
+7,Lake City,washington,no_topic
+8,Lake City,larg,topic_2
+9,Lake City,neighborhood,topic_2
+10,Lake City,minut,topic_2
+11,Lake City,downtown,topic_2
+12,Lake City,bu,topic_2
+13,Lake City,enjoi,topic_3
+14,Lake City,citi,topic_3
+15,Lake City,quiet,no_topic
+16,Lake City,queen,topic_2
+17,Lake City,bath,no_topic
+18,Lake City,walk,topic_2
+19,Lake City,includ,topic_3
+20,Lake City,street,topic_2
+21,Lake City,close,no_topic
+22,Lake City,coffe,topic_2
+23,Lake City,restaur,topic_2
+24,Lake City,licens,no_topic
+25,Lake City,opli,topic_4
+26,Lake City,relax,topic_3
+27,Lake City,yard,no_topic
+28,Lake City,trail,no_topic
+29,Lake City,avail,no_topic
+0,Beacon Hill,light,no_topic
+1,Beacon Hill,hill,topic_4
+2,Beacon Hill,space,topic_2
+3,Beacon Hill,park,topic_2
+4,Beacon Hill,downtown,topic_2
+5,Beacon Hill,privat,topic_2
+6,Beacon Hill,rail,no_topic
+7,Beacon Hill,access,topic_2
+8,Beacon Hill,beacon,no_topic
+9,Beacon Hill,walk,topic_2
+10,Beacon Hill,minut,topic_2
+11,Beacon Hill,floor,topic_2
+12,Beacon Hill,area,topic_2
+13,Beacon Hill,citi,topic_3
+14,Beacon Hill,min,topic_2
+15,Beacon Hill,queen,topic_2
+16,Beacon Hill,airport,no_topic
+17,Beacon Hill,restaur,topic_2
+18,Beacon Hill,awai,topic_1
+19,Beacon Hill,enjoi,topic_3
+20,Beacon Hill,comfort,topic_3
+21,Beacon Hill,station,no_topic
+22,Beacon Hill,neighborhood,topic_2
+23,Beacon Hill,new,no_topic
+24,Beacon Hill,easi,no_topic
+25,Beacon Hill,fulli,topic_5
+26,Beacon Hill,cozi,no_topic
+27,Beacon Hill,size,topic_2
+28,Beacon Hill,coffe,topic_2
+29,Beacon Hill,larg,topic_2
