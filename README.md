@@ -1,6 +1,6 @@
 ## University of Michigan SIADS 697 Capstone Project
 # Seattle Airbnb Advisory Dashboard 
-by Team Breakfast Analytica: Kristina Garber (kgarb), Benjamin Bartek (bbartek), Jono O'Dowd (jodowd)
+by Team Breakfast Analytica: Kristina Garber (kgarb), Benjamin Bartek (bbartek), & Jonathan "Jono" O'Dowd (jodowd)
 
 ## Table of Contents
 * [Introduction](#introduction)
